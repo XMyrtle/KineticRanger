@@ -1,0 +1,12 @@
+﻿{
+  "Id": "KineticRanger",
+  "DisplayName": "Kinetic Ranger",
+  "Author": "",
+  "Version": "1.1.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "KineticRanger.dll",
+  "EntryMethod": "KineticRanger.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
